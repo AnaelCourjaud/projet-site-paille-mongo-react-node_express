@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "homepage": "",
   "scripts": {
+    "build": "react-scripts build",
     "start": "npx nodemon"
   },
   "author": "",
